@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Dorota!  
 
-<!--
-**Dor-Ka/Dor-Ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Frontend Developer** passionate about building responsive and user-friendly web applications using **React.js**, **JavaScript**, and **TypeScript**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- **Frontend Technologies:** HTML, CSS, JavaScript (ES6+), React.js, TypeScript  
+- **State Management:** Redux, Redux-Saga  
+- **Tools & Workflows:** Git, GitHub, Figma, Trello, Scrum  
+- **Additional Skills:** Web Accessibility (WCAG), basic SEO knowledge  
+
+---
+
+## 🌟 Featured Projects  
+
+### [Movies Browser](https://github.com/Dor-Ka/movies-browser)  
+A React-based application for browsing and filtering movies using an external API. Includes advanced state management with Redux.  
+
+### [Currency Converter](https://github.com/Dor-Ka/currency-converter)  
+A simple, responsive currency converter using real-time exchange rates with Axios.  
+
+---
+
+🎯 Always eager to learn and collaborate on new projects!  
+📂 Explore my repositories and featured projects below.  
+
+---
+
+📫 Let's connect:  
+- [LinkedIn](https://www.linkedin.com/in/d-karpinska)  
+- [Portfolio](#link-to-portfolio)  
