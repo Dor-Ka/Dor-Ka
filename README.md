@@ -29,4 +29,3 @@ A simple, responsive currency converter using real-time exchange rates with Axio
 
 📫 Let's connect:  
 - [LinkedIn](https://www.linkedin.com/in/d-karpinska)  
-- [Portfolio](#link-to-portfolio)  
