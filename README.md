@@ -1,6 +1,12 @@
 # Hi there 👋, I'm Dorota!  
 
-I’m a **Frontend Developer** passionate about building responsive and user-friendly web applications using **React.js**, **JavaScript**, and **TypeScript**.  
+---
+
+## 👩‍💻 About Me  
+I’m passionate about web development and always eager to learn new technologies. I thrive in collaborative environments and enjoy solving complex problems with elegant code.  
+
+📫 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/d-karpinska)  
 
 ---
 
@@ -16,9 +22,11 @@ I’m a **Frontend Developer** passionate about building responsive and user-fri
 
 ### [Movies Browser](https://github.com/Dor-Ka/movies-browser)  
 A React-based application for browsing and filtering movies using an external API. Includes advanced state management with Redux.  
+**Technologies:** React.js, Redux, Styled Components  
 
 ### [Currency Converter](https://github.com/Dor-Ka/currency-converter)  
 A simple, responsive currency converter using real-time exchange rates with Axios.  
+**Technologies:** JavaScript, React.js  
 
 ---
 
@@ -26,6 +34,4 @@ A simple, responsive currency converter using real-time exchange rates with Axio
 📂 Explore my repositories and featured projects below.  
 
 ---
-
-📫 Let's connect:  
-- [LinkedIn](https://www.linkedin.com/in/d-karpinska)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dor-Ka&show_icons=true&theme=radical)  
