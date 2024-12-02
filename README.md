@@ -34,7 +34,6 @@ A simple, responsive currency converter using real-time exchange rates with Axio
 📂 Explore my repositories and featured projects below.  
 
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dor-Ka&show_icons=true&theme=radical)  
 
 ## 📊 GitHub Stats  
 
