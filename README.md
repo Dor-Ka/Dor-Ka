@@ -47,22 +47,24 @@ I’m open to collaborating on **innovative projects** where I can combine my te
 
 ---
 
-<!-- 
-### 📈 GitHub Stats
-
-![Dorota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dor-Ka&show_icons=true&count_private=true&hide=prs&hide_title=true)
-
---- 
--->
-
 ### 📊 GitHub Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dor-Ka&layout=compact&theme=radical)
 
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dor-Ka)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dor-Ka)
+
+### 📅 Contributions Calendar
+
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Dor-Ka)
+
 ---
 
-<!--
 ### ✨ Fun Fact
 
 I’m always trying to **code** like the [**little rocket emoji** 🚀](https://emojipedia.org/rocket/) and love building **amazing things**!
--->
