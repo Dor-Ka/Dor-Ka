@@ -27,6 +27,35 @@ When I’m not coding, you’ll find me exploring new tech 🌱, attending meetu
 | **Frontend Libraries & Frameworks** | ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white) ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?logo=redux&logoColor=white) ⚛️ |
 | **Other Tools**          | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white) 🛠️                    |
 | **Additional Skills**    | ![Responsive Web Design](https://img.shields.io/badge/-RWD-4CAF50?logo=css3&logoColor=white) ![BEM](https://img.shields.io/badge/-BEM-FF3E00?logo=css3&logoColor=white) ![WCAG](https://img.shields.io/badge/-WCAG-2F2F2F?logo=html5&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-FF9A8B?logo=google&logoColor=black) 🌍 |
+### 🔧 Technologies & Tools (hybrydowy sposób)
+
+#### **Languages**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript ✨
+
+#### **Frontend Libraries & Frameworks**
+- React.js
+- Redux
+- Redux-Saga
+- Styled Components
+- React Router ⚛️
+
+#### **Other Tools**
+- Git
+- GitHub (Pull Requests)
+- Scrum
+- Figma
+- Trello 🛠️
+
+#### **Additional Skills**
+- Responsive Web Design (RWD)
+- BEM
+- Web Accessibility (WCAG)
+- Axios
+- Storage API
+- SEO (Basic) 🌍
 
 ### 🌱 Current Focus
 
