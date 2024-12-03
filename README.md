@@ -62,9 +62,12 @@ I’m open to collaborating on **innovative projects** where I can combine my te
 ### 📅 Contributions Calendar
 
 ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Dor-Ka)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Dor-Ka)
 
 ---
 
+<!-- 
 ### ✨ Fun Fact
 
 I’m always trying to **code** like the [**little rocket emoji** 🚀](https://emojipedia.org/rocket/) and love building **amazing things**!
+-->
