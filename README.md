@@ -38,7 +38,7 @@ I’m currently focused on building projects with **React.js**, honing my **Type
 ### 🚀 Let's Connect
 
 - [LinkedIn Profile](https://www.linkedin.com/in/dor-karpinska/) 💬
-- [GitHub Projects](https://github.com/Dor-Ka) 🌟
+- [GitHub Projects](https://github.com/Dor-Ka?tab=repositories) 🌟
 <!-- 
 - [My Portfolio](link-to-portfolio) 🌍 
 -->
