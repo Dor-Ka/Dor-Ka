@@ -55,14 +55,13 @@ I’m open to collaborating on **innovative projects** where I can combine my te
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dor-Ka)
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dor-Ka)
-
 ### 📅 Contributions Calendar
 
 ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Dor-Ka)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Dor-Ka)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dor-Ka)
 
 ---
 
