@@ -18,7 +18,7 @@ When I’m not coding, you’ll find me exploring new tech 🌱, attending meetu
 <!-- 
 - [My Portfolio](link-to-portfolio) 🌍 
 -->
-### 🔧 Technologies & Tools
+### 🔧 Technologies & Tools & Design Skills
 
 | **Languages** ✨                                           | **Frontend Libraries & Frameworks** ⚛️                             | **Other Tools** 🛠️                                              | **Additional Skills**                                          | **Design Skills** 🎨                                       |
 |-----------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|
@@ -28,14 +28,6 @@ When I’m not coding, you’ll find me exploring new tech 🌱, attending meetu
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  |                                                                 | ![Storage API](https://img.shields.io/badge/-Storage%20API-FFB300?logo=google-chrome&logoColor=black) | Responsive Web Design ![Responsive Web Design](https://img.shields.io/badge/-RWD-4CAF50?logo=css3&logoColor=white) 📱💻 |
 |                                                           | ![Redux-Saga](https://img.shields.io/badge/-Redux%20Saga-999999?logo=redux&logoColor=white) | ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white) | basic ![SEO](https://img.shields.io/badge/-SEO-FF9A8B?logo=google&logoColor=black) knowledge 🌍 |                                                            |
 |                                                           | ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) |                                                                 |                                                               |                                                            |
-
-
-### 🎨 Design Skills
-
-- **UX/UI Design Basics**: Understanding user-centered design, wireframing, and prototyping for creating seamless user experiences. 🖌️
-- **Canva**: Experience in creating visually appealing graphics and layouts for web and social media content. 🎨
-- **Figma**: Design tool for building user interfaces and prototypes. 💻
-- **Responsive Web Design (RWD)**: Creating adaptable and flexible layouts that work across devices. 📱💻
 
 ### 🌱 Current Focus
 
