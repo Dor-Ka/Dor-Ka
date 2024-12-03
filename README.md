@@ -14,17 +14,34 @@ When I’m not coding, you’ll find me exploring new tech 🌱, attending meetu
 
 ### 🔧 Technologies & Tools
 
-#### **Languages**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff) , ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff) , ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  , ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff) ✨
+#### **Languages**✨
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff) 
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff) 
 
-#### **Frontend Libraries & Frameworks**
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black): Hooks, ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white), ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white), ![Redux-Saga](https://img.shields.io/badge/-Redux%20Saga-999999?logo=redux&logoColor=white), ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) ⚛️
+#### **Frontend Libraries & Frameworks** ⚛️
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
+- Hooks
+- ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white)
+- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+- ![Redux-Saga](https://img.shields.io/badge/-Redux%20Saga-999999?logo=redux&logoColor=white)
+- ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) ⚛️
 
-#### **Other Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Scrum](https://img.shields.io/badge/-Scrum-2E1B8E?logo=scrum&logoColor=white), ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white), ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white) 🛠️
+#### **Other Tools**🛠️
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- ![Scrum](https://img.shields.io/badge/-Scrum-2E1B8E?logo=scrum&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+- ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
 
 #### **Additional Skills**
-Responsive Web Design ![Responsive Web Design](https://img.shields.io/badge/-RWD-4CAF50?logo=css3&logoColor=white), ![BEM](https://img.shields.io/badge/-BEM-FF3E00?logo=css3&logoColor=white), Web Accessibility ![WCAG](https://img.shields.io/badge/-WCAG-2F2F2F?logo=html5&logoColor=white), ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white), ![Storage API](https://img.shields.io/badge/-Storage%20API-FFB300?logo=google-chrome&logoColor=black), basic ![SEO](https://img.shields.io/badge/-SEO-FF9A8B?logo=google&logoColor=black) knowledge 🌍
+- Responsive Web Design ![Responsive Web Design](https://img.shields.io/badge/-RWD-4CAF50?logo=css3&logoColor=white)
+- ![BEM](https://img.shields.io/badge/-BEM-FF3E00?logo=css3&logoColor=white)
+- Web Accessibility ![WCAG](https://img.shields.io/badge/-WCAG-2F2F2F?logo=html5&logoColor=white)
+- ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
+- ![Storage API](https://img.shields.io/badge/-Storage%20API-FFB300?logo=google-chrome&logoColor=black)
+- basic ![SEO](https://img.shields.io/badge/-SEO-FF9A8B?logo=google&logoColor=black) knowledge 🌍
 
 
 ### 🌱 Current Focus
