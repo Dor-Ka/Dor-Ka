@@ -12,6 +12,15 @@ I thrive on solving **complex problems** with elegant, clean code. My passion fo
 
 When I’m not coding, you’ll find me exploring new tech 🌱, attending meetups 🎤, or working on personal projects to deepen my knowledge. 📚
 
+
+### 🚀 Let's Connect
+
+- [LinkedIn Profile](https://www.linkedin.com/in/d-karpinska/) 💬
+- [GitHub Projects](https://github.com/Dor-Ka?tab=repositories) 🌟
+<!-- 
+- [My Portfolio](link-to-portfolio) 🌍 
+-->
+
 ### 🔧 Technologies & Tools
 
 #### **Languages**✨
@@ -26,12 +35,13 @@ When I’m not coding, you’ll find me exploring new tech 🌱, attending meetu
 - ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white)
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 - ![Redux-Saga](https://img.shields.io/badge/-Redux%20Saga-999999?logo=redux&logoColor=white)
-- ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) ⚛️
+- ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white)
 
 #### **Other Tools**🛠️
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - ![Scrum](https://img.shields.io/badge/-Scrum-2E1B8E?logo=scrum&logoColor=white)
+- ![Canva](https://img.shields.io/badge/-Canva-FF4F00?logo=canva&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 - ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
 
@@ -43,6 +53,12 @@ When I’m not coding, you’ll find me exploring new tech 🌱, attending meetu
 - ![Storage API](https://img.shields.io/badge/-Storage%20API-FFB300?logo=google-chrome&logoColor=black)
 - basic ![SEO](https://img.shields.io/badge/-SEO-FF9A8B?logo=google&logoColor=black) knowledge 🌍
 
+### 🎨 Design Skills
+
+- **UX/UI Design Basics**: Understanding user-centered design, wireframing, and prototyping for creating seamless user experiences. 🖌️
+- **Canva**: Experience in creating visually appealing graphics and layouts for web and social media content. 🎨
+- **Figma**: Design tool for building user interfaces and prototypes. 💻
+- **Responsive Web Design (RWD)**: Creating adaptable and flexible layouts that work across devices. 📱💻
 
 ### 🌱 Current Focus
 
@@ -58,19 +74,9 @@ I’m currently focused on building projects with **React.js**, honing my **Type
   A simple, responsive currency converter using real-time exchange rates with Axios.  
   **Technologies:** JavaScript, React.js 💱
 
----
-
-### 🚀 Let's Connect
-
-- [LinkedIn Profile](https://www.linkedin.com/in/d-karpinska/) 💬
-- [GitHub Projects](https://github.com/Dor-Ka?tab=repositories) 🌟
-<!-- 
-- [My Portfolio](link-to-portfolio) 🌍 
--->
 
 I’m open to collaborating on **innovative projects** where I can combine my technical expertise and creativity to deliver **outstanding digital experiences**. 🚀
 
----
 
 ### 📊 GitHub Activity
 
