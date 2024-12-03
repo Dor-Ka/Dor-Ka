@@ -63,7 +63,6 @@ I’m open to collaborating on **innovative projects** where I can combine my te
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dor-Ka&theme=radical&no-issues=true&no-stars=true&no-forks=true&no-repositories=true&no-commits=false&no-reviews=false&no-pull-requests=false)
 
-
 ---
 
 <!-- 
