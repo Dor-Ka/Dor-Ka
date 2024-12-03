@@ -18,6 +18,14 @@ When I’m not coding, you’ll find me exploring new tech 🌱, attending meetu
 - **Frontend Libraries & Frameworks**: React.js (Hooks, Styled Components, Redux, Redux-Saga, React Router) ⚛️
 - **Other Tools**: Git, GitHub (Pull Requests), Scrum, Figma, Trello 🛠️
 - **Additional Skills**: Responsive Web Design (RWD), BEM, Web Accessibility (WCAG), Axios, Storage API, basic SEO knowledge 🌍
+## 🔧 Technologies & Tools
+
+| **Category**             | **Technologies & Tools**                                                                                                                                 |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**            | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff) **HTML5**  | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff) **CSS3**  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript (ES6+)**  | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff) **TypeScript** ✨                                      |
+| **Frontend Libraries & Frameworks** | ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) **React.js**  | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) **Redux**  | ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white) **Styled Components**  | ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) **React Router** ⚛️                                                    |
+| **Other Tools**          | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **Git**  | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) **GitHub**  | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) **Figma**  | ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white) **Trello** 🛠️                    |
+| **Additional Skills**    | ![Responsive Web Design](https://img.shields.io/badge/-RWD-4CAF50?logo=css3&logoColor=white) **Responsive Web Design (RWD)**  | ![BEM](https://img.shields.io/badge/-BEM-FF3E00?logo=css3&logoColor=white) **BEM**  | ![WCAG](https://img.shields.io/badge/-WCAG-2F2F2F?logo=html5&logoColor=white) **Web Accessibility (WCAG)**  | ![SEO](https://img.shields.io/badge/-SEO-FF9A8B?logo=google&logoColor=black) **SEO (Search Engine Optimization)** 🌍 |
 
 ### 🌱 Current Focus
 
