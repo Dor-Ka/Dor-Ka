@@ -39,17 +39,21 @@ I’m currently focused on building projects with **React.js**, honing my **Type
 
 - [LinkedIn Profile](https://www.linkedin.com/in/dor-karpinska/) 💬
 - [GitHub Projects](https://github.com/Dor-Ka) 🌟
-- [My Portfolio](link-to-portfolio) 🌍
+<!-- 
+- [My Portfolio](link-to-portfolio) 🌍 
+-->
 
 I’m open to collaborating on **innovative projects** where I can combine my technical expertise and creativity to deliver **outstanding digital experiences**. 🚀
 
 ---
 
+<!-- 
 ### 📈 GitHub Stats
 
 ![Dorota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dor-Ka&show_icons=true&count_private=true&hide=prs&hide_title=true)
 
----
+--- 
+-->
 
 ### 📊 GitHub Activity
 
@@ -57,6 +61,8 @@ I’m open to collaborating on **innovative projects** where I can combine my te
 
 ---
 
+<!--
 ### ✨ Fun Fact
 
 I’m always trying to **code** like the [**little rocket emoji** 🚀](https://emojipedia.org/rocket/) and love building **amazing things**!
+-->
