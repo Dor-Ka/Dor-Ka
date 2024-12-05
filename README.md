@@ -12,7 +12,6 @@ I thrive on solving **complex problems** with elegant, clean code. My passion fo
 
 When I’m not coding, you’ll find me exploring new tech 🌱, attending meetups 🎤, or working on personal projects to deepen my knowledge. 📚
 
-
 ### 🚀 Let's Connect
 [LinkedIn Profile](https://www.linkedin.com/in/d-karpinska/) 💬 [GitHub Projects](https://github.com/Dor-Ka?tab=repositories) 🌟
 <!-- 
