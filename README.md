@@ -118,14 +118,6 @@
 
 ---
 
-<p align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBqYzh3eXEwbHZsOGUwcGVsanczazlheTVkNzdhbHBlNGtwdWtqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="200" alt="Coding gif" />
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB6cjF4dmk2d2tpNmx0ZXk5Y3Z2emJ0YjExNmxlNXllNWp5ajltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding gif" />
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBqYzh3eXEwbHZsOGUwcGVsanczazlheTVkNzdhbHBlNGtwdWtqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="200" alt="Coding gif" />
-</p>
-
----
-
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
@@ -134,4 +126,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dor-Ka&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBqYzh3eXEwbHZsOGUwcGVsanczazlheTVkNzdhbHBlNGtwdWtqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="200" alt="Coding gif" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB6cjF4dmk2d2tpNmx0ZXk5Y3Z2emJ0YjExNmxlNXllNWp5ajltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding gif" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBqYzh3eXEwbHZsOGUwcGVsanczazlheTVkNzdhbHBlNGtwdWtqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="200" alt="Coding gif" />
+</p>
 ---
