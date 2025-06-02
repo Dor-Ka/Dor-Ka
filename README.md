@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media1.tenor.com/m/EyASgyJCDfEAAAAd/hello-world-animation.gif" width="300" alt="Coding gif" />
+    <img src="https://media1.tenor.com/m/EyASgyJCDfEAAAAd/hello-world-animation.gif" height="100" alt="Coding gif" />
 </p>
   
 <h1 align="center">👋 Hi, I'm Dorota</h1>
@@ -9,62 +9,43 @@
   I enjoy solving real-world problems, learning new tools, and building clean, scalable code with attention to UX/UI.
 </p>
 
----
 
 <div align="center">
-## 🔧 Technologies & Tools
+<h2 >🔧 Technologies & Tools</h2>
 
-<table>
-  <tr>
-    <th>Languages & Core</th>
-    <th>Frontend & Libraries</th>
-    <th>Tools & Workflow</th>
-    <th>Design & Best Practices</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
-      <br />
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-      <br />
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td align="center">
-      <img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <br />
-      <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-      <br />
-      <img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-      <br />
-      <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <br />
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <br />
-      <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
-      <br />
-      <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="UX/UI Design" src="https://img.shields.io/badge/UX%2FUI-FF9A8B?style=for-the-badge&logo=figma&logoColor=white" />
-      <br />
-      <img alt="Canva" src="https://img.shields.io/badge/Canva-FF4F00?style=for-the-badge&logo=canva&logoColor=white" />
-      <br />
-      <img alt="Web Accessibility" src="https://img.shields.io/badge/WCAG-2F2F2F?style=for-the-badge&logo=html5&logoColor=white" />
-      <br />
-      <img alt="Responsive Design" src="https://img.shields.io/badge/RWD-4CAF50?style=for-the-badge&logo=html5&logoColor=white" />
-      <br />
-      <img alt="Agile" src="https://img.shields.io/badge/Agile%20%26%20Scrum-FF9800?style=for-the-badge&logo=scrum&logoColor=white" />
-    </td>
-  </tr>
-</table> 
-    <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAd/coding.gif" width="300" alt="Coding gif" />
+### Languages & Core
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+</p>
 
+### Frontend & Libraries
+<p align="center">
+  <img alt="React.js" src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" />
+</p>
+
+### Tools & Workflow
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white" />
+</p>
+
+### Design & Best Practices
+<p align="center">
+  <img alt="UX/UI Design" src="https://img.shields.io/badge/-UX%2FUI-FF9A8B?logo=figma&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-FF4F00?logo=canva&logoColor=white" />
+  <img alt="Web Accessibility" src="https://img.shields.io/badge/-WCAG-2F2F2F?logo=html5&logoColor=white" />
+  <img alt="Responsive Design" src="https://img.shields.io/badge/-RWD-4CAF50?logo=html5&logoColor=white" />
+  <img alt="Agile" src="https://img.shields.io/badge/-Agile%20%26%20Scrum-FF9800?logo=scrum&logoColor=white" />
+</p>
 </div>
 
----
 
 <h2 align="center">🌱 Current Focus</h2>
 
@@ -74,10 +55,8 @@
   ♿ <strong>Clean & Accessible Code</strong>
 </p>
 
----
 
 <div align="center">
-
 <h2>🚀 Featured Projects</h2>
 
 <table>
@@ -107,36 +86,42 @@
 </p>
 </div>
 
----
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center">
+    <img src="https://media.tenor.com/6oWcNgJ5EKMAAAAj/paper-plane-flying.gif"  height="50" alt="Coding gif"/> 
+    📫 Let's Connect 
+    <img src="https://media.tenor.com/6oWcNgJ5EKMAAAAj/paper-plane-flying.gif"  height="50" alt="Coding gif"/> 
+</h2>
+
+<p align="center">
+     I'm always open to connecting with other developers, recruiters, and creators.<br/>
+    <strong> Feel free to reach out! </strong> <br/>
+</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/d-karpinska/">
-    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" height="60" />
   </a>
   &nbsp;
   <a href="https://github.com/Dor-Ka">
-    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" height="60" />
   </a>
     &nbsp;
   <a href="https://dor-ka.github.io/frontend-react-portfolio/">
-    <img align="center" src="https://raw.githubusercontent.com/Dor-Ka/Dor-Ka/main/dk-logo.png" height="40" alt="DK Logo" title="My Portfolio"/>
+    <img align="center" src="https://raw.githubusercontent.com/Dor-Ka/Dor-Ka/main/dk-logo.png" height="60" alt="DK Logo" title="My Portfolio"/>
   </a>
     &nbsp;
   <a href="mailto:dorotakarpinska.dev@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" height="60" />
   </a>
 </p>
 
-<p align="center">
-  I'm always open to connecting with other developers, recruiters, and creators.<br/>
- <strong> Feel free to reach out! </strong>
-</p>
+---
 
 <p align="center">
-    <img src="https://media.tenor.com/3ZgoqmlrTXQAAAAj/caro-guinazu.gif" width="300" alt="Coding gif" />
-    <img src="https://media.tenor.com/6oWcNgJ5EKMAAAAj/paper-plane-flying.gif" width="300" alt="Coding gif" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBqYzh3eXEwbHZsOGUwcGVsanczazlheTVkNzdhbHBlNGtwdWtqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="200" alt="Coding gif" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB6cjF4dmk2d2tpNmx0ZXk5Y3Z2emJ0YjExNmxlNXllNWp5ajltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding gif" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBqYzh3eXEwbHZsOGUwcGVsanczazlheTVkNzdhbHBlNGtwdWtqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="200" alt="Coding gif" />
 </p>
 
 ---
