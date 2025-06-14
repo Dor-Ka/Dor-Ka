@@ -50,12 +50,11 @@
 <h2 align="center">🎯 Current Goals</h2>
 
 <p align="center">
-📘 Mastering React.js patterns & Redux Toolkit  
-🎨 Improving UI with advanced CSS (Grid, animations, responsive design)  
-🧼 Writing clean, semantic & accessible code (WAI-ARIA, WCAG)  
-🚀 Building real-world frontend projects with progressive complexity 
+📘 <strong> Mastering React.js </strong> patterns & Redux Toolkit  <br />
+🎨 <strong> Improving UI </strong> with advanced CSS (Grid, animations, responsive design)  <br />
+🧼 <strong> Writing clean </strong>, semantic & accessible <strong> code </strong> (WAI-ARIA, WCAG)  <br />
+🚀 <strong> Building real-world frontend projects </strong> with progressive complexity <br />
 </p>
-
 
 <div align="center">
 <h2>🚀 Featured Projects</h2>
