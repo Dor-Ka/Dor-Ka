@@ -47,12 +47,13 @@
 </div>
 
 
-<h2 align="center">🌱 Current Focus</h2>
+<h2 align="center">🎯 Current Goals</h2>
 
 <p align="center">
-  ⚛️ <strong>React.js Projects</strong><br />
-  🔄 <strong>Redux & State Management</strong><br />
-  ♿ <strong>Clean & Accessible Code</strong>
+📘 Mastering React.js patterns & Redux Toolkit  
+🎨 Improving UI with advanced CSS (Grid, animations, responsive design)  
+🧼 Writing clean, semantic & accessible code (WAI-ARIA, WCAG)  
+🚀 Building real-world frontend projects with progressive complexity 
 </p>
 
 
