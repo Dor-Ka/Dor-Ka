@@ -121,11 +121,13 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xwdnM1NGc5MjVkZTk1cG44ZjJuaXZ0OXFrejVlYmk0NDBkbjFiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="140" alt="Coding gif" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dor-Ka&layout=compact&theme=radical" alt="Top Languages" /> <br/>
+    
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dor-Ka&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dor-Ka&show_icons=true&theme=radical" alt="GitHub Activity" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dor-Ka&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dor-Ka&show_icons=true&theme=radical" alt="GitHub Activity" /> 
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB6cjF4dmk2d2tpNmx0ZXk5Y3Z2emJ0YjExNmxlNXllNWp5ajltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB6cjF4dmk2d2tpNmx0ZXk5Y3Z2emJ0YjExNmxlNXllNWp5ajltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  alt="Coding gif" />
 </p>
