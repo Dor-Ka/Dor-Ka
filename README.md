@@ -121,9 +121,9 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xwdnM1NGc5MjVkZTk1cG44ZjJuaXZ0OXFrejVlYmk0NDBkbjFiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="140" alt="Coding gif" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dor-Ka&layout=compact&theme=radical" alt="Top Languages" /> 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ6OWZncWpkbTF5M2Ruc2Jmd2syNnN6bmJ1ZGxhb2g0ZXh1dXluMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" height="140" alt="Coding gif" /> <br/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ6OWZncWpkbTF5M2Ruc2Jmd2syNnN6bmJ1ZGxhb2g0ZXh1dXluMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" height="140" alt="Coding gif" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dor-Ka&layout=compact&theme=radical" alt="Top Languages" /> <br/>
+
     
   <img src="https://github-readme-stats.vercel.app/api?username=Dor-Ka&show_icons=true&theme=radical" alt="GitHub Activity" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dor-Ka&theme=radical" alt="GitHub Streak" />
